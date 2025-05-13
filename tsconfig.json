@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2015","DOM"],
+    "target": "ESNext",
+    "module": "CommonJS",
+    "sourceMap": true,
+    "sourceRoot": "src",
+    "outDir": "lib",
+  }
+}

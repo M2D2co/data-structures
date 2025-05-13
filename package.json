@@ -1,0 +1,22 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M2D2co/data-structures.git"
+  },
+  "author": "Michael Dowden <michael@dowden.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/M2D2co/data-structures/issues"
+  },
+  "homepage": "https://github.com/M2D2co/data-structures#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

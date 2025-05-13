@@ -1,0 +1,18 @@
+// No types or structure
+
+let user_1_first_name = 'Karel'
+let user_1_last_name = 'Sanchis'
+let user_1_email = 'ksanchis@networkadvertising.org'
+let user_1_address_street_1 = '12 Roxbury Crossing'
+let user_1_address_street_2 = 'PO Box 97501'
+let user_1_address_city = 'Otacilio Costa'
+let user_1_address_postal_code = '88540-000'
+let user_1_address_country = 'Brazil'
+let user_2_first_name = 'Tim'
+let user_2_last_name = 'Pandey'
+let user_2_email = 'tpandey1@smugmug.com'
+let user_2_address_street_1 = '6 Elmside Avenue'
+let user_2_address_street_2 = ''
+let user_2_address_city = 'Pathum Thani'
+let user_2_address_postal_code = '90110'
+let user_2_address_country = 'Thailand'
